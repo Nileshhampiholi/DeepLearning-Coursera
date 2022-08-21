@@ -1,2 +1,2 @@
-# DeepLearning-Coursera
+# DeepLearning Specialization Coursera
  
